@@ -1,0 +1,1 @@
+web: gunicorn Yokohama_bus_navi_gmap.wsgi --log-file -
