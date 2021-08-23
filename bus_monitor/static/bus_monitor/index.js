@@ -78,7 +78,7 @@ function updateLocation(markers) {
                     }
                 }, bus_info)
             });
-    }, 5000);
+    }, 30000);
 }
 
 // 角度を指定してシンボルマーカーを取得
